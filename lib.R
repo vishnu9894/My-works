@@ -1,0 +1,6 @@
+install.packages("tidyverse")
+library(tidyverse)
+install.packages("cluster")
+library(cluster)
+install.packages("factoextra")
+library(factoextra)
